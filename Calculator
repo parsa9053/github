@@ -1,0 +1,9 @@
+#aparat = aparat.com/mortazavi1390
+#number
+a = int(input())
+#math
+b = a*2
+c = a*a
+#solve
+print("Your number is ",a)
+print(a,"+",a,"=",b)
